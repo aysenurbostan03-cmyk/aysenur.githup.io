@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>İstanbul Ödev Sitesi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f7fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #0077b6;
+      color: white;
+      text-align: center;
+      padding: 50px 10px;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0077b6;
+      text-align: center;
+    }
+    p {
+      line-height: 1.6;
+      text-align: justify;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    img {
+      width: 100%;
+      border-radius: 10px;
+      margin: 15px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #555;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Merhaba, ben Ayşenur 👋</h1>
+    <p>Bu sayfa ödev amacıyla hazırlanmıştır.</p>
+  </header>
+
+  <section>
+    <h2>İstanbul</h2>
+    <p>İstanbul, Türkiye'nin en kalabalık ve en tarihi şehirlerinden biridir. 
+    Asya ve Avrupa kıtalarını birbirine bağlayan bu eşsiz şehir; tarihi, kültürel ve doğal güzellikleriyle dünyaca ünlüdür.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Bosphorus_Bridge_on_Istanbul.jpg" alt="İstanbul Boğazı">
+  </section>
+
+  <section>
+    <h2>Gezilecek Yerler ve Yapılacak Aktiviteler</h2>
+    <p>İstanbul’da gezilecek yerler ve yapılacak aktiviteler şunlardır:</p>
+    <ul>
+      <li>Ayasofya, Topkapı Sarayı, Sultanahmet Camii, Galata Kulesi ve Kız Kulesi’ni gezmek</li>
+      <li>Boğaz turu yaparak şehri denizden keşfetmek</li>
+      <li>Kapalıçarşı ve Mısır Çarşısında alışveriş yapmak</li>
+      <li>İstiklal Caddesi ve Taksim Meydanı’nda yürüyüş yapmak</li>
+      <li>Adalarda bisiklet turu yapmak</li>
+      <li>Çay ve kahve eşliğinde sahil kenarında dinlenmek</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Hagia_Sophia_Mars_2013.jpg" alt="Ayasofya">
+  </section>
+
+  <section>
+    <h2>Yenilecek Yemekler</h2>
+    <p>İstanbul mutfağı oldukça zengindir. Balık-ekmek, simit, döner, kumpir ve midye dolma en bilinen tatlar arasındadır. Boğaz kenarında balık yemek, şehrin keyfini çıkarmanın en güzel yollarından biridir.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Balik_ekmek.jpg" alt="Balık Ekmek">
+  </section>
+
+  <footer>
+    <p>Okuduğunuz için teşekkürler 🌸</p>
+  </footer>
+</body>
+</html>
